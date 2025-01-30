@@ -1,10 +1,13 @@
-                                  Php's Anti-Virus
+**Php's Anti-Virus**:
+
 Php's Anti-Virus is a lightweight malware scanning and quarantine tool designed to detect and handle suspicious files. It scans directories for known malware, performs heuristic analysis, and monitors running processes for potential threats.
 
-Overview
-This project was originally created by Mokujyn. However, the code was incomplete, and I Joshua contributed by completing the implementation, adding key functionalities, optimizing detection mechanisms, and ensuring smooth execution.
+**Overview**:
 
-Features
+This project was originally created by Mokujyn. However, the code was incomplete, and I (Joshcoderx) contributed by completing the implementation, adding key functionalities, optimizing detection mechanisms, and ensuring smooth execution.
+
+**Features**:
+
 •	File Scanning – Identifies malware based on hash signatures.
 
 •	Heuristic Analysis – Detects suspicious code patterns.
@@ -17,20 +20,26 @@ Features
 
 •	Logging – Records all detections and actions taken.
 
-Requirements
-•	Python 3.x
-•	Install dependencies:
+**Requirements**:
+
+•Python 3.x
+
+•	**Install dependencies**:
+
 pip install psutil plyer
 
-Usage
+**Usage**
 1.	Run the script and enter the directory path to scan.
 2.	The program will scan files and quarantine any that match known threats or contain suspicious patterns.
 3.	It will also monitor running processes and log findings in antivirus_results.txt.
-
-Contributors
+   
+**Contributors**:
 •	Mokujyn– Original author, initial concept, and partial implementation.
 •	Joshua – Completed and improved the code, added core functionality.
 
-License
+**License**
 This project is licensed under the MIT License.
+
+
+
 
