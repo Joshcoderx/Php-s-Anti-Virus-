@@ -34,8 +34,10 @@ pip install psutil plyer
 3.	It will also monitor running processes and log findings in antivirus_results.txt.
    
 **Contributors**:
+
 •	Mokujyn– Original author, initial concept, and partial implementation.
-•	Joshua – Completed and improved the code, added core functionality.
+
+•	Joshcoderx – Completed and improved the code, added core functionality.
 
 **License**
 This project is licensed under the MIT License.
