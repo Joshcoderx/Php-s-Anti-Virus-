@@ -6,10 +6,15 @@ This project was originally created by Mokujyn. However, the code was incomplete
 
 Features
 •	File Scanning – Identifies malware based on hash signatures.
+
 •	Heuristic Analysis – Detects suspicious code patterns.
+
 •	Large File Scanning – Uses memory-mapped file access for efficiency.
+
 •	Process Monitoring – Continuously scans running processes.
+
 •	Quarantine System – Moves suspicious files for further inspection.
+
 •	Logging – Records all detections and actions taken.
 
 Requirements
